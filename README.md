@@ -21,9 +21,8 @@
 ---
 
 
----
 
 
 ### 🧠 Fun Fact
 ```txt
-I love working on side projects that challenge me to learn something new and solve real-world problems.
+I love over simplfying apps for easy use
