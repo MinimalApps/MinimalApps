@@ -24,24 +24,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/langdonn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:langdonn@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ff5722?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://langdonn.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🧠 About Me
 ```txt
 I build minimal apps using pure HTML, CSS, and smart layouts.
-Every line of code is deliberate.
-Every interface is calm and focused.
